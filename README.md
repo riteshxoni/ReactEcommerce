@@ -1,3 +1,62 @@
+Core Fundamentals
+
+JSX
+
+Functional Components
+
+Component Reusability
+
+Props
+
+State & Lifecycle
+
+useState
+
+useEffect
+
+Conditional Rendering
+
+Routing
+
+React Router (BrowserRouter, Routes, Route, Link, useParams)
+
+API Integration
+
+Fetch / Axios
+
+Async/Await
+
+Loading & Error Handling
+
+Forms & Auth UI
+
+Controlled Components
+
+Form Handling
+
+Basic Validation
+
+UI & Styling
+
+Bootstrap integration in React
+
+Responsive layout
+
+Data Handling
+
+Mapping lists (products rendering)
+
+Keys in lists
+
+Project Structure
+
+Folder structure (components, pages, services)
+
+Reusable components (Navbar, Card, Footer)
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
