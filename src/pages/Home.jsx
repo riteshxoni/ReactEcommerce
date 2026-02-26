@@ -1,5 +1,5 @@
 import React from 'react'
-
+import {Link} from 'react-router-dom'
 const Home = () => {
   return (
     <div className="container my-5">
@@ -7,7 +7,7 @@ const Home = () => {
       <div className="p-5 mb-5 bg-light rounded-3 text-center">
         <h1 className="display-5 fw-bold">Welcome to MySite</h1>
         <p className="lead">Shop the latest products at the best prices.</p>
-        <a href="#" className="btn btn-primary btn-lg">Start Shopping</a>
+        <Link to={"/shop"} className="btn btn-primary btn-lg">Start Shopping</Link>
       </div>
 
       {/* <!-- Featured Products --> */}
